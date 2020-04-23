@@ -3,7 +3,15 @@ title: "Nobel Prize Manuscript"
 author: Lou Moses
 output: pdf_document
 ---
-The quick brown fox
+
+# My header
+
+The quick brown fox *jumped* over the ugly dog
+
+
+## Smaller Header
+
+fun stuff
 
 
 ```{r setup, include=FALSE}
